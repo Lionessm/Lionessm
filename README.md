@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maria Mihaila.
+- 👋 Hi, I’m Maria Pavelescu.
 - 👀 I’m interested in technology, foreign languages, cultural diversity and art.
 - 🌱 I’m currently perfecting my JavaScript, Node.js, Express.js and React.js skills.
 
